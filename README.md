@@ -12,27 +12,16 @@ To bring Dark-mode to any of your websites. Just copy paste the snippet and you 
 - Can be used programmatically without widget
 
 ## How to use
-Darkmode.js is very easy to use, just copy-paste the following code or use the npm package.
+Dark Mode  is very easy to use, just copy-paste the following code to your webiste.
 
 ### using the JSDelivr CDN
 Just add this code to your HTML page:
 ```html
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
-<script>
-  new Darkmode().showWidget();
+<script>  new Darkmode().showWidget();   // Import Your JavaScript file here 
 </script>
-```
-
-###  Using NPM
-```sh
-npm install darkmode-js
-```
-
-Then add the following JavaScript code:
-```javascript
-import Darkmode from 'darkmode-js';
-
-new Darkmode().showWidget();
+// Import Your JavaScript file here 
+// <Script src ="link of file"></script>
 ```
 
 ##  Options
@@ -40,8 +29,8 @@ Here are the option availables:
 ```javascript
 var options = {
   bottom: '64px', // default: '32px'
-  right: 'unset', // default: '32px'
-  left: '32px', // default: 'unset'
+  right: '32px', // default: '32px'
+  left: 'unset', // default: 'unset'
   time: '0.5s', // default: '0.3s'
   mixColor: '#fff', // default: '#fff'
   backgroundColor: '#fff',  // default: '#fff'
@@ -49,7 +38,7 @@ var options = {
   buttonColorLight: '#fff', // default: '#fff'
   saveInCookies: false, // default: true,
   label: '🌓', // default: ''
-  autoMatchOsTheme: true // default: true
+  autoMatchOsTheme: true // default: true // Check OS Theme while loading the website
 }
 
 const darkmode = new Darkmode(options);
