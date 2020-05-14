@@ -11,7 +11,7 @@ To bring Dark-mode to any of your websites. Just copy paste the snippet and you 
 - Easy to Use
 - Appears automatically
 - Saving users choice ( Optional)
-- Auto Match OS.
+- Auto Match OS.( Optional )
 - Can be used programmatically without widget
 
 ## How to use
@@ -28,7 +28,8 @@ Just add this code to your HTML page:
 ```
 <img src ="Screenshots/s1.png" width= "50%" height ="50%">
 
-##  Options
+##  JavaScript
+AMake a new Javascript File and just copy-paste the following code.
 Here are the option availables:
 ```javascript
 var options = {
