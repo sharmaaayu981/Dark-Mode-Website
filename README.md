@@ -26,8 +26,7 @@ Just add this code to your HTML page:
 // Import Your JavaScript file here 
 // <Script src ="link of file"></script>
 ```
-
-- <img src ="Screenshots/s1.png" width= "100%" height ="50%">
+<img src ="Screenshots/s1.png" width= "50%" height ="50%">
 
 ##  Options
 Here are the option availables:
@@ -49,6 +48,9 @@ var options = {
 const darkmode = new Darkmode(options);
 darkmode.showWidget();
 ```
+
+- <img src ="Screenshots/s2.png" width= "50%" height ="50%">
+
 
 ### Contact Us
 * [LinkedIn](https://in.linkedin.com/in/sharmaayush981) 
