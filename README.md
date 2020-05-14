@@ -31,7 +31,7 @@ Just add this code to your HTML page:
 // Import Your JavaScript file here 
 // <Script src ="link of file"></script>
 ```
-<img src ="Screenshots/s1.png" width= "50%" height ="50%">
+<img src ="Screenshots/s.png" width= "50%" height ="50%">
 
 ##  JavaScript
 Make a new Javascript File and just copy-paste the following code.
