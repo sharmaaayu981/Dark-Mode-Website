@@ -27,6 +27,8 @@ Just add this code to your HTML page:
 // <Script src ="link of file"></script>
 ```
 
+- <img src ="Screenshots/s1.png" width= "100%" height ="50%">
+
 ##  Options
 Here are the option availables:
 ```javascript
