@@ -48,8 +48,7 @@ var options = {
 const darkmode = new Darkmode(options);
 darkmode.showWidget();
 ```
-
-- <img src ="Screenshots/s2.png" width= "50%" height ="50%">
+<img src ="Screenshots/s2.png" width= "50%" height ="50%">
 
 
 ### Contact Us
