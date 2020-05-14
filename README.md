@@ -1,6 +1,6 @@
 # Dark-Mode-Website-
 Adding Dark Mode Toggle Feature to Any website (HTML, CSS, JavaScript)  
-<img src ="Screenshots/01.png" width= "19%" height ="50%"> <img src ="Screenshots/02.png" width= "19%" height ="50%"> <img src ="Screenshots/03.png" width= "19%" height ="50%">
+<img src ="DarkMode/Screenshots/01.png" width= "30%" height ="50%"> <img src ="DarkMode/Screenshots/02.png" width= "30%" height ="50%"> <img src ="DarkMode/Screenshots/03.png" width= "30%" height ="50%">
 
 
 ## Dark Mode
