@@ -34,7 +34,7 @@ Just add this code to your HTML page:
 <img src ="Screenshots/s1.png" width= "50%" height ="50%">
 
 ##  JavaScript
-AMake a new Javascript File and just copy-paste the following code.
+Make a new Javascript File and just copy-paste the following code.
 Here are the option availables:
 ```javascript
 var options = {
