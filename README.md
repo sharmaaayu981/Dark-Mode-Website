@@ -1,5 +1,8 @@
 # Dark-Mode-Website-
 Adding Dark Mode Toggle Feature to Any website (HTML, CSS, JavaScript)  
+<img src ="Snapshots/01.png" width= "19%" height ="50%"> <img src ="Snapshots/02.png" width= "19%" height ="50%"> <img src ="Snapshots/03.png" width= "19%" height ="50%"> <img src ="Snapshots/04.png" width= "19%" height ="50%">
+<img src ="Snapshots/05.png" width= "19%" height ="50%">
+
 
 ## Dark Mode
 To bring Dark-mode to any of your websites. Just copy paste the snippet and you will get a widget to turn on and off the dark-mode. You can also use it without the widget programmatically. It also uses localstorage by default so your last setting will be remembered !
