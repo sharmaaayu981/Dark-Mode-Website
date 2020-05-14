@@ -25,8 +25,8 @@ Dark Mode  is very easy to use, just copy-paste the following code to your webis
 ### using the JSDelivr CDN
 Just add this code to your HTML page:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
-<script>  new Darkmode().showWidget();   // Import Your JavaScript file here 
+<script src="js/darkmin.js"></script> // Javascript file ( Dark Mode)
+<script>  new Darkmode().showWidget();   // Import Your JavaScript file here ( Options File)
 </script>
 // Import Your JavaScript file here 
 // <Script src ="link of file"></script>
