@@ -5,7 +5,12 @@ Adding Dark Mode Toggle Feature to Any website (HTML, CSS, JavaScript) </br>
 
 
 ## Dark Mode
-To bring Dark-mode to any of your websites. Just copy paste the snippet and you will get a widget to turn on and off the dark-mode. You can also use it without the widget programmatically. It also uses localstorage by default so your last setting will be remembered !
+To bring Dark-mode to any of your websites. Just copy paste the snippet and you will get a widget to turn on and off the dark-mode. You can also use it without the widget programmatically. It also uses localstorage by default so your last setting will be remembered.
+
+| Name | Demo |
+| --- | --- |
+| Dark Theme |[Preview](https://darkmodedemo.web.app) |
+
 
 ### Features 
 - Easy to Use
